@@ -16,14 +16,12 @@
 
 [Gitee备用Digispark加速](https://gitee.com/benjaminwan/arduino-boards-index/raw/master/package_digistump_index.json)
 
--
 
 #### 使用方法
-1. 打开【Ardunio首选项】->【附加开发板管理器网址】右边按钮->填入上面2个原始json地址，一行一个，并保存。
+1. 打开【Ardunio首选项】->【附加开发板管理器网址】右边按钮->填入上面2个加速地址，一行一个，并保存。
 2. 打开【工具】->【开发板】->【开发板管理器】->IDE自动下载json文件
 3. 搜索digi或esp32进行下载
 
--
 
 #### 修复macOS Catalina 10.15编译错误
 错误信息：Digispark bad CPU type in executable
